@@ -1,0 +1,17 @@
+SISTEMA DE GESTIÓN DE BIBLIOTECA UNEMI
+-Nombre completo del estudiante:
+ Darlyn Joshua Murillo Garcia
+-Carrera y semestre:
+ Ingeniería De software - 4to Semestre
+ 
+El caso de estudio sigue una metodología de cuatro fases que guía el desarrollo de software desde la comprensión del problema hasta su implementación final.
+
+La primera fase. Requerimientos, consiste en analizar el enunciado del problema para identificar qué debe hacer el sistema. Aquí se detectan los actores involucrados, las funcionalidades necesarias y las restricciones existentes. Una técnica clave en esta etapa es distinguir sustantivos —que sugieren posibles clases y atributos— de verbos —que sugieren posibles métodos.
+
+La segunda fase. Análisis, profundiza en las entidades del sistema mediante un proceso de abstracción. Se definen cuáles son las clases principales, qué atributos las caracterizan y qué comportamientos deben tener. También se establecen las relaciones entre clases, como herencia, asociación, agregación y composición, lo que permite entender cómo interactúan los distintos componentes del sistema.
+
+La tercera fase. Diseño, plasma todo el análisis en un diagrama de clases UML. Este diagrama muestra de forma visual las clases con sus atributos, métodos y niveles de visibilidad (público, privado), así como las relaciones entre ellas. Sirve como plano arquitectónico antes de escribir una sola línea de código.
+
+La cuarta fase. Desarrollo, es la implementación en Python. Se traduce el diagrama UML a código funcional aplicando los cuatro pilares de la Programación Orientada a Objetos: la abstracción para modelar solo lo esencial, el encapsulamiento para proteger los datos, la herencia para reutilizar comportamiento entre clases, y el polimorfismo para que distintos objetos respondan de manera flexible a los mismos métodos.
+
+El sistema resultante permite gestionar una biblioteca universitaria, cubriendo funcionalidades como el registro de libros y estudiantes, el préstamo y devolución de materiales, y la consulta del estado de los préstamos activos.
